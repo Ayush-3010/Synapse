@@ -20,7 +20,7 @@ function HomePage() {
           }}
           className="flex items-center mb-55 ml-10"
         >
-          <img src={setImg} alt="set" className="h-[300] w-[300] object-contain " />
+          <img src={setImg} alt="set" className="h-[400] w-[400] object-contain " />
 
           <div className="relative h-[300px] w-[300px] flex items-center justify-center -ml-15 mt-5">
             <img src={dImg} alt="d" className="h-full object-contain" />
